@@ -1,7 +1,6 @@
-Viktor Kravchuk<br>
+Viltor Kravchuk<br>
 KV-21mp<br>
-
-<p>Lab 2</p>
-Organise couple of users working together<br>
-Report: https://docs.google.com/document/d/19zb6RTt7y-yPJI5LmXigEbazNlra0lxva-A_a0P15IA/edit?usp=sharing
+<p>Lab 1</p>
+Implement server part of the Web-application and tests its functionality
+Report: https://docs.google.com/document/d/1I3E_sUUZteT95jh5eSslxtZeGCEYVuo14wn-bexNvSw/edit?usp=sharing
 
